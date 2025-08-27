@@ -1,9 +1,13 @@
 # 👋 Hi there, I'm Satya Nihal
 
 ## 👨‍💻 About Me
-- 3rd Year Computer Science Student @ Queen's University, Canada  
-- Full Stack AI/ML Developer  
-- Teaching Assistant for **C Programming (APSC 141)** @ Queen's University  
+- Full Stack **AI/ML** Developer  
+- **3rd Year** Computer Science Student @ Queen's University, Canada  🇨🇦
+- Teaching Assistant for **C Programming (APSC 141)** @ Queen's University
+- Student Helpdesk Analyst **(IT Services)** @ Queen's University
+
+### 🌍 Fun Fact
+- I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
 
 ## 💬 What Colleagues Say About Me
 Tomasz Bak (PhD in Statistics & Full Stack ML Engineer): *"I had the pleasure of working with Nihal during his AI internship, where he made a strong impact by contributing to our MCP server, building a basic AI agent, and working on RAG optimization. He even designed a custom scoring system that combined similarity, importance, and recency factors to significantly improve retrieval quality. Nihal is quick to pick up complex ideas, turn them into effective solutions, and is a collaborative team player. I’m confident he will excel in any future role."*
