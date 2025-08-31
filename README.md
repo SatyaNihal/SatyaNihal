@@ -4,7 +4,7 @@
 - Full Stack **AI/ML** Developer  
 - **3rd Year** Computer Science Student @ Queen's University, Canada  🇨🇦
 - Teaching Assistant for **C Programming (APSC 141)** @ Queen's University
-- Student Helpdesk Analyst **(IT Services)** @ Queen's University
+- Student Helpdesk Analyst **(Level 1 Tech, IT Services)** @ Queen's University
 
 ### 🌍 Fun Fact
 - I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
@@ -16,7 +16,7 @@ Tomasz Bąk, PhD (Colleague, Nanoprecise): *"I had the pleasure of working with 
 1. **AI & Data Science R&D Intern** @ Nanoprecise Sci Corp. *(Summer 2025, Edmonton)*  
    [linkedin.com/in/satyanihal/](https://www.linkedin.com/in/satyanihal/)  
 
-2. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca)  
+2. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca/leadership)  
 
 3. **Backend Developer** @ [COMPSA - Computing Students' Association](https://compsa.ca/)  
 
