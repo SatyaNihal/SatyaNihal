@@ -4,7 +4,7 @@
 - Full Stack **AI/ML** Developer  
 - **3rd Year** Computer Science Student @ Queen's University, Canada  🇨🇦
 - Teaching Assistant for **C Programming (APSC 141)** @ Queen's University
-- Student Helpdesk Analyst **(Level 1 Tech, IT Services)** @ Queen's University
+- Level 1 Tech, IT Services **(Student Helpdesk Analyst)** @ Queen's University
 
 ### 🌍 Fun Fact
 - I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
