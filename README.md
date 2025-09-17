@@ -20,6 +20,6 @@ Tomasz Bąk, PhD (Colleague, Nanoprecise): *"I had the pleasure of working with 
 
 3. **Backend Developer** @ [COMPSA - Computing Students' Association](https://compsa.ca/)  
 
-4. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/)  
+4. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/our-team)  
 
 5. **Director of Internal Technology** @ [Smith Business & Technology (SBT)](https://www.linkedin.com/company/smithbiztech/?originalSubdomain=ca)  
