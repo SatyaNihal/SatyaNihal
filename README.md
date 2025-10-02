@@ -16,10 +16,12 @@ Tomasz Bąk, PhD (Colleague, Nanoprecise): *"I had the pleasure of working with 
 1. **AI & Data Science R&D Intern** @ Nanoprecise Sci Corp. *(Summer 2025, Edmonton)*  
    [linkedin.com/in/satyanihal/](https://www.linkedin.com/in/satyanihal/)  
 
-2. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca/leadership)  
+2. **AI Engineer** @ QMIND (In Collaboration With Project X Ltd.)  
 
-3. **Backend Developer** @ [COMPSA - Computing Students' Association](https://compsa.ca/)  
+3. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca/leadership)  
 
-4. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/our-team)  
+4. **Backend Developer** @ [COMPSA - Computing Students' Association](https://compsa.ca/)  
 
-5. **Director of Internal Technology** @ [Smith Business & Technology (SBT)](https://www.linkedin.com/company/smithbiztech/?originalSubdomain=ca)  
+5. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/our-team)  
+
+6. **Director of Internal Technology** @ [Smith Business & Technology (SBT)](https://www.linkedin.com/company/smithbiztech/?originalSubdomain=ca)  
