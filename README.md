@@ -15,7 +15,7 @@
 - **[Matthias Winkeler (Manager, Nanoprecise)](https://www.linkedin.com/in/matthias-winkeler/):**  
   *"Nihal was a quick and eager learner during his internship with our R&D team at Nanoprecise, showing strong curiosity and adaptability as he helped streamline the MCP model protocol with our internal APIs. We look forward to seeing him continue to grow and become a valuable colleague after his studies."*
 
-- **[Tomasz Bąk, PhD (Colleague, Nanoprecise)](https://www.linkedin.com/in/tomasz-b%C4%85k-phd-16032a68/):**  
+- **[Tomasz Bąk, PhD (Coworker, Nanoprecise)](https://www.linkedin.com/in/tomasz-b%C4%85k-phd-16032a68/):**  
   *"I had the pleasure of working with Nihal during his AI internship, where he made a strong impact by contributing to our MCP server, building a basic AI agent, and working on RAG optimization. He even designed a custom scoring system that combined similarity, importance, and recency factors to significantly improve retrieval quality. Nihal is quick to pick up complex ideas, turns them into effective solutions, and is a collaborative team player. I’m confident he will excel in any future role."*
 
 ## 💼 Experience & Roles
