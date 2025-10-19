@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Satya Nihal
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1c33407c-7dce-4c7a-a77b-e10018ac4f31" />
 
 ## 👨‍💻 About Me
-- Full Stack **AI/ML** Developer  
+- Full Stack Developer specializing in **AI/ML** and **Low-Level Programming**  
 - **3rd Year** Computer Science Student @ Queen's University, Canada  🇨🇦
 - Teaching Assistant for **C Programming (APSC 141)** @ Queen's University
 - **AI Engineer** @ QMIND (In Collaboration With Project X Ltd.)
-- Level 1 Tech, IT Services **(Student Helpdesk Analyst)** @ Queen's University
+- Level 1 Tech Support Analyst **(IT Services)** @ Queen's University
 
 ### 🌍 Fun Fact
 - I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
