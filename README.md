@@ -25,9 +25,9 @@
 1. **AI & Data Science R&D Intern** @ Nanoprecise Sci Corp. *(Summer 2025, Edmonton)*  
    [linkedin.com/in/satyanihal/](https://www.linkedin.com/in/satyanihal/)  
 
-2. **AI Engineer** @ QMIND (In Collaboration With Project X Ltd.)
+2. **AI Engineer** @ [QMIND (In Collaboration With Project X Ltd.)](https://github.com/mcronin4/MiCRA)
 
-3. **Level 1 Tech Support Analyst** @ Queen's IT Services  
+3. **Level 1 Tech Support Analyst** @ [Queen's IT Services](https://www.queensu.ca/its/)  
 
 4. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca/leadership)  
 
