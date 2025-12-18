@@ -22,17 +22,19 @@
   *"Nihal is a rising star from our R&D internship! Technical knowledge? Check. Energy, attitude, and respect? Absolutely! He’s destined to be a real asset wherever he goes! 🚀"*
 
 # 💼 Experience & Roles
-1. **AI & Data Science R&D Intern** @ Nanoprecise Sci Corp. *(Summer 2025, Edmonton)*  
-   [linkedin.com/in/satyanihal/](https://www.linkedin.com/in/satyanihal/)  
 
-2. **AI Engineer** @ [QMIND (In Collaboration With Project X Ltd.)](https://github.com/mcronin4/MiCRA)
+1. **AI Software Developer** @ [Backboard.io](https://backboard.io) *(Winter 2026, Ottawa)*
 
-3. **Level 1 Tech Support Analyst** @ [Queen's IT Services](https://www.queensu.ca/its/)  
+2. **AI & Data Science R&D Intern** @ [Nanoprecise Sci Corp.](https://nanoprecise.io/)  *(Summer 2025, Edmonton)*
 
-4. **Web Developer** @ [QMIND - Queen's AI Hub](https://qmind.ca/leadership)  
+3. **AI Engineer** @ [QMIND (In Collaboration With Project X Ltd.)](https://github.com/mcronin4/MiCRA)
 
-5. **Backend Developer** @ [COMPSA - Computing Students' Association](https://compsa.ca/)  
+4. **Level 1 Tech Support Analyst** @ [Queen's IT Services](https://www.queensu.ca/its/)
 
-6. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/our-team)  
+5. **Web Developer** @ [QMIND – Queen's AI Hub](https://qmind.ca/leadership)
 
-7. **Director of Internal Technology** @ [Smith Business & Technology (SBT)](https://www.linkedin.com/company/smithbiztech/?originalSubdomain=ca)  
+6. **Backend Developer** @ [COMPSA – Computing Students' Association](https://compsa.ca/)
+
+7. **Director of Technology** @ [Queen's Cricket Club (QCC)](https://queenscricketclub.netlify.app/our-team)
+
+8. **Director of Internal Technology** @ [Smith Business & Technology (SBT)](https://www.linkedin.com/company/smithbiztech/?originalSubdomain=ca)
