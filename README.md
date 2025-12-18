@@ -3,9 +3,9 @@
 # 👨‍💻 About Me
 - Full Stack Developer specializing in **AI/ML** and **Low-Level Programming**  
 - **3rd Year** Computer Science Student @ Queen's University, Canada  🇨🇦
-- Teaching Assistant for **C Programming (APSC 141)** @ Queen's University
-- **AI Engineer** @ QMIND (In Collaboration With Project X Ltd.)
-- Level 1 Tech Support Analyst **(IT Services)** @ Queen's University
+- Teaching Assistant for **Data Analytics (ML) & C Programming** @ Queen's University
+- **AI Software Developer** @ Backboard.io (W26)
+- Prev. **AI R&D Intern** @ Nanoprecise Sci Corp. (S25)
 
 ## 🌍 Fun Fact
 - I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
