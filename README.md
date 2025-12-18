@@ -6,6 +6,7 @@
 - Teaching Assistant for **Data Analytics (ML) & C Programming** @ Queen's University
 - **AI Software Developer** @ Backboard.io (W26)
 - Prev. **AI R&D Intern** @ Nanoprecise Sci Corp. (S25)
+- [linkedin.com/in/satyanihal/](https://www.linkedin.com/in/satyanihal/)
 
 ## 🌍 Fun Fact
 - I completed my K-12 education across four different countries: 🇸🇬 Singapore, 🇮🇳 India, 🇰🇼 Kuwait, and 🇨🇦 Canada.
